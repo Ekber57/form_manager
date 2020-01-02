@@ -210,10 +210,3 @@ class form_manager:
     
 
 
-
-l={'ekber':'Milyarder'}
-            
-            
-o=form_manager("hello my name is ekberler ekber",luqet=l,develop=True)
-
-print(o.translate())
